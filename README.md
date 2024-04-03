@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 I’m currently working at @bimasaktialterra
+- 💼 I’m currently working at [@bimasaktialterra](https://github.com/bimasaktialterra)
 <!--
 **sujuds/sujuds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
