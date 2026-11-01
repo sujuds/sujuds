@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujuds&hide_progress=true" height=180 />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sujuds&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
