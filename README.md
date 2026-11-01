@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujuds&hide_progress=true)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujuds&hide_progress=true" height=180 />
+</p>
